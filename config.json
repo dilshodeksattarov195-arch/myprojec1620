@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdender",
+        "uuid": 13243500,
+        "checksum": "5djyly"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
